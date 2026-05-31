@@ -92,15 +92,24 @@
 Проверим установленную версию Terraform (не ниже версии 1.12.0):
 ![t1](https://github.com/wlasoff/netology-devops-home-git-terraform1/blob/main/img/t1.png)
 
-Что бы изучить содержимое каталога [**src**](https://github.com/netology-code/ter-homeworks/tree/main/01/src) нужно склонировать репозиторий https://github.com/netology-code/ter-homeworks/, скачав все необходимые зависимости, использованные в проекте:
+Что бы изучить содержимое каталога [**src**](https://github.com/netology-code/ter-homeworks/tree/main/01/src) нужно склонировать репозиторий https://github.com/netology-code/ter-homeworks/:
 
 ![t2](https://github.com/wlasoff/netology-devops-home-git-terraform1/blob/main/img/t2.png)
 
-## Ответ вопрос 2 в задании 1:
-
-Изучиk файл **.gitignore**. В каком terraform-файле, согласно этому .gitignore, допустимо сохранить личную, секретную информацию?(логины,пароли,ключи,токены и т.д.).
+Далее, из каталога с файлом main.tf командой ```terraform init``` произвожу инициализацию рабочего каталога и скачиваю зависимости, использованные в проекте:
 
 ![t3](https://github.com/wlasoff/netology-devops-home-git-terraform1/blob/main/img/t3.png)
+
+## Ответ вопрос 2 в задании 1:
+
+Изучив файл **.gitignore**, выясняю то, что только в terraform-файле с названием __personal.auto.tfvars__, допустимо сохранить личную, секретную информацию(логины,пароли,ключи,токены и т.д.):
+
+![t4](https://github.com/wlasoff/netology-devops-home-git-terraform1/blob/main/img/t5.png)
+
+## Ответ вопрос 3 в задании 1:
+
+
+![t5](https://github.com/wlasoff/netology-devops-home-git-terraform1/blob/main/img/t5.png)
 
 
 
