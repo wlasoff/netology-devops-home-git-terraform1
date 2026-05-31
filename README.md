@@ -104,7 +104,7 @@
 
 Изучив файл **.gitignore**, выясняю то, что только в terraform-файле с названием __personal.auto.tfvars__, допустимо сохранить личную, секретную информацию(логины,пароли,ключи,токены и т.д.):
 
-![t4](https://github.com/wlasoff/netology-devops-home-git-terraform1/blob/main/img/t5.png)
+![t4](https://github.com/wlasoff/netology-devops-home-git-terraform1/blob/main/img/t4.png)
 
 ## Ответ вопрос 3 в задании 1:
 
