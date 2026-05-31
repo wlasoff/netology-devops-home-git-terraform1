@@ -108,6 +108,7 @@
 
 ## Ответ вопрос 3 в задании 1:
 
+Выполняю код из файла main.tf командой ```terraform apply```:
 
 ![t5](https://github.com/wlasoff/netology-devops-home-git-terraform1/blob/main/img/t5.png)
 
